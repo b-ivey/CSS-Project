@@ -72,7 +72,7 @@ Your design should avoid the following:
 
 You will be submitting at least three files -- `resume.html`, `style.css` and an image file -- for this assignment. (Yes, you will be overwriting the `resume.html` file you submitted in the first assignment -- this is okay!) You may have extra files such as additional images. Commit your files to the `username.github.io` repo you created at the beginning of the semester.
 
-[Create an issue](https://github.com/umiami-web-design/css-project/issues) in the `css-project` repository with your full name and a link to your web page (`http://username.github.io/resume.html`) by the deadline. If you are unsure of how to submit, check the example provided in the Issues section.
+[Create an issue](https://github.com/b-ivey/css-project/issues) in the `css-project` repository with your full name and a link to your web page (`http://username.github.io/resume.html`) by the deadline. If you are unsure of how to submit, check the example provided in the Issues section.
 
 Do not wait until the last minute to submit your URL.
 
