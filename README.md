@@ -7,7 +7,7 @@
 
 This assignment is worth **10 points**.
 
-Using a corrected version of your HTML résumé, create a styled version for the web and print using CSS.
+Using a corrected version of your HTML résumé, create a styled version for the web and print using CSS. The files you create should have a .HTML extension. If you want to preview your work, I suggest using another text editor to write your code and test in a browser. 
 
 You have the freedom to be creative in how you present your résumé. All presentation should be through the use of CSS, the styling should follow proper visual design techniques and adhere to best practices.
 
