@@ -1,6 +1,6 @@
 # CSS Project
 
-**Due:** Friday, November 8, Noon.
+**Due:** Friday, April 10, Noon.
 
 
 ## Instructions
